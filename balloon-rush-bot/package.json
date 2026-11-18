@@ -1,0 +1,15 @@
+{
+  "name": "balloon-rush-bot",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Balloon Rush — Telegram mini app con demo gratuita, multi-wallet e prelievo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-api.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
